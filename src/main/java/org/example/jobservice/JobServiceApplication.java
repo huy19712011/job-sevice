@@ -1,14 +1,14 @@
-package org.example.jobsevice;
+package org.example.jobservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JobSeviceApplication {
+public class JobServiceApplication {
 
     public static void main(String[] args) {
 
-        SpringApplication.run(JobSeviceApplication.class, args);
+        SpringApplication.run(JobServiceApplication.class, args);
         System.out.println("running...");
     }
 
