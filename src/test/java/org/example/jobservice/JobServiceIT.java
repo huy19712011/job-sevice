@@ -1,7 +1,7 @@
 package org.example.jobservice;
 
 import org.example.jobservice.dto.JobDto;
-import org.example.jobservice.generic.BaseTest;
+import org.example.jobservice.compose.BaseTest;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
